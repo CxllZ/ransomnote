@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\coding\C#\UhOh\bin\Debug\UhOh.exe.config
+C:\Users\HP\Desktop\coding\C#\UhOh\bin\Debug\UhOh.exe
+C:\Users\HP\Desktop\coding\C#\UhOh\bin\Debug\UhOh.pdb
+C:\Users\HP\Desktop\coding\C#\UhOh\obj\Debug\UhOh.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\coding\C#\UhOh\obj\Debug\UhOh.Form1.resources
+C:\Users\HP\Desktop\coding\C#\UhOh\obj\Debug\UhOh.Properties.Resources.resources
+C:\Users\HP\Desktop\coding\C#\UhOh\obj\Debug\UhOh.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\coding\C#\UhOh\obj\Debug\UhOh.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\coding\C#\UhOh\obj\Debug\UhOh.exe
+C:\Users\HP\Desktop\coding\C#\UhOh\obj\Debug\UhOh.pdb
